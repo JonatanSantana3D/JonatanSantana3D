@@ -1,7 +1,21 @@
-### Olá 👋
-
-### Habilidades:
-![Python]
+### Hello! 👋
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonatanSantana3D&show_incons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+# 💫 About Me:
+🌱 I’m currently learning data analyst and Power BI by Ebac<br><br>⚡ Fun fact I'm a 3D artist who is changing fields
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonatan-santana3d) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JonatanSantana3D&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JonatanSantana3D&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JonatanSantana3D&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=JonatanSantana3D&icon=0&color=3)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
